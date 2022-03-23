@@ -25,8 +25,8 @@ const Footer = (props) => {
               <li>&copy; Copyright 2021 </li>
               <li>
                 Design by{" "}
-                <a title="Styleshout" href="http://www.styleshout.com/">
-                  Styleshout
+                <a title="Styleshout" href="/">
+                  Style
                 </a>
               </li>
             </ul>
